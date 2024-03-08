@@ -11,5 +11,5 @@ import { NavigationComponent } from './navigation/navigation.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Darlita';
+  title = 'ng17-on-netlify';
 }
